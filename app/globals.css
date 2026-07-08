@@ -167,6 +167,7 @@ nav:not(.scrolled) .logo,nav:not(.scrolled) .nav-links a{color:#fff}
 .ba-sec .eyebrow{color:var(--aqua)}
 .ba{position:relative;border-radius:var(--r-lg);overflow:hidden;aspect-ratio:16/8.5;user-select:none;touch-action:none;box-shadow:0 40px 90px -30px rgba(0,0,0,.6);cursor:ew-resize}
 .ba-side{position:absolute;inset:0}
+.ba-img{width:100%;height:100%;object-fit:cover;pointer-events:none}
 .ba-after{clip-path:inset(0 0 0 var(--cut,50%))}
 .ba-tag{position:absolute;top:20px;font-family:var(--font-m);font-size:.68rem;letter-spacing:.18em;text-transform:uppercase;padding:8px 14px;border-radius:100px;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);background:rgba(6,24,43,.4);border:1px solid rgba(255,255,255,.2)}
 .ba-tag.b{left:20px}.ba-tag.a{right:20px;color:var(--mint);border-color:rgba(47,217,166,.4)}

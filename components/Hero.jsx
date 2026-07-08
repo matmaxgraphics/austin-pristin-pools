@@ -79,14 +79,7 @@ export default function Hero() {
           </a>
         </div>
       </div>
-      <div className="hero-surface" aria-hidden="true">
-        <svg viewBox="0 0 1440 110" preserveAspectRatio="none">
-          <path
-            d="M0,60 C240,110 420,10 720,55 C1020,100 1200,20 1440,65 L1440,110 L0,110 Z"
-            fill="#F5FBFD"
-          />
-        </svg>
-      </div>
+      
       <div className="chem-ticker" aria-label="Live water chemistry from pools serviced today">
         <div className="chem-inner">
           <span><span className="dot-live" />LIVE FROM TODAY&apos;S ROUTES</span>
