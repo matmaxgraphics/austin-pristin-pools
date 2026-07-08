@@ -21,6 +21,7 @@ export default function HomePage() {
       <Nav />
       <Hero />
       <Stats />
+      <BeforeAfter />
       <Services />
       <PricingCalculator />
       <Memberships />
